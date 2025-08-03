@@ -1,0 +1,8 @@
+C:\Users\Tarık\source\repos\StokTakip\StokTakip\obj\Release\net8.0-windows\StokTakip.stokTakipForm.resources
+C:\Users\Tarık\source\repos\StokTakip\StokTakip\obj\Release\net8.0-windows\StokTakip.LoginForm.resources
+C:\Users\Tarık\source\repos\StokTakip\StokTakip\obj\Release\net8.0-windows\StokTakip.Properties.Resources.resources
+C:\Users\Tarık\source\repos\StokTakip\StokTakip\obj\Release\net8.0-windows\StokTakip.csproj.GenerateResource.cache
+C:\Users\Tarık\source\repos\StokTakip\StokTakip\obj\Release\net8.0-windows\StokTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarık\source\repos\StokTakip\StokTakip\obj\Release\net8.0-windows\StokTakip.AssemblyInfoInputs.cache
+C:\Users\Tarık\source\repos\StokTakip\StokTakip\obj\Release\net8.0-windows\StokTakip.AssemblyInfo.cs
+C:\Users\Tarık\source\repos\StokTakip\StokTakip\obj\Release\net8.0-windows\StokTakip.csproj.CoreCompileInputs.cache
